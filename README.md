@@ -33,6 +33,7 @@ Para visualizar siga os passos abaixo:
 - Abra o Git Bash dentro deste diretório;
 - Utilize o comando "git clone https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms".
 - Abra o Visual Studio e dê play para rodar.
+- Os arquivos amigos.csv e secreto.csv serão salvos na pasta: bin > Degug
 
 ---
 
@@ -46,27 +47,34 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 ---
 
 ## 👩🏽‍💻 Demonstração
+<p>
 <strong>Home</strong>
 ![home](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/843eb5d7-f9c2-460a-af89-fa50a765a173)
-<br>
+</p>
+<p>
 <strong>Validação para cadastrar amizade</strong>
 ![cadastrar_validacao](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/9324902f-cd69-411f-a932-d29f2a683784)
-<br>
+</p>
+<p>
 <strong>Cadastro realizado com sucesso</strong>
 ![cadastrar_msgboxSucesso](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/7d09b883-e799-4514-9026-22a54415a471)
-<br>
+</p>
+<p>
 <strong>Dar match nos nomes</strong>
 ![matchNasAmizades](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/79800d79-49c5-4e4d-90d9-56eae32ff0f9)
-<br>
+</p>
+<p>
 <strong>Confirmação para rodar aba: quem tirou quem</strong>
 ![quemTirouQuem_validacao](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/8c7ac90e-fd3f-4ed7-8e2d-ff1a2016a2c0)
-<br>
+</p>
+<p>
 <strong>Ver quem tirou quem</strong>
 ![quemTirouQuem](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/3f342755-9112-4d2f-9e09-767a034c2c80)
-<br>
+</p>
+<p>
 <strong>Apagar tudo</strong>
 ![apagarTudo](https://github.com/carolferraz/academia_DotNet_AmigoSecreto-WinForms/assets/21011722/ea582225-953f-4a95-8ea2-269873ac8956)
-
+</p>
 
 ---
 
