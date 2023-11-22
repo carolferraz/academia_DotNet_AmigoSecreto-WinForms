@@ -20,9 +20,10 @@ O projeto apresenta uma interface usando Windows Forms em que é possível cadas
 ---
 
 ## :white_check_mark: Features
-- [x] Cadastro de pessoas com nome e email;
-- [x] Sorteio dos nomes para "amizade secreta";
-- [x] Gera relação dos nomes cadastrados e quem tirou quem;
+- [x] Cadastro das amizades com nome e email;
+- [x] Lista nomes das pessoas cadastradas;
+- [x] Sorteio dos nomes para gerar match das "amizades secretas";
+- [x] Gera arquivo no computador com a relação dos nomes cadastrados e quem tirou quem;
 
 ---
 
